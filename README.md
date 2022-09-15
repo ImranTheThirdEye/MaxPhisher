@@ -10,7 +10,7 @@
   <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-ImranTheThirdEye-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-80%25-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
@@ -36,7 +36,7 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/ImranTheThirdEye/MaxPhisher```
 
 ##### Enter the directory
  - ```cd MaxPhisher```
@@ -151,21 +151,12 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ### This repository is open source to help others. So if you wish to copy, consider giving credit!
 
-## Credits:
-[PyPhisher](https://github.com/KasRoudra/PyPhisher)
-[CamHacker](https://github.com/KasRoudra/CamHacker)
-[VidPhisher](https://github.com/KasRoudra/VidPhisher)
-[IP-Tracker](https://github.com/KasRoudra/IP-Tracker)
-[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker)
-[Seeker](https://github.com/thewhiteh4t/seeker)
-
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-ImranTheThirdEye-green?style=for-the-badge&logo=github)](https://github.com/ImranTheThirdEye)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-ImranTheThirdEye-green?style=for-the-badge&logo=gmail)](mailto:imranthethirdeye@gmail.com)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
+- [![Facebook](https://img.shields.io/badge/Facebook-ImranTheThirdEye-green?style=for-the-badge&logo=facebook)](https://facebook.com/imrandathirdeye)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
